@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>{text}</p>
+      <pre>{text}</pre>
     </div>
   );
 }
